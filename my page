@@ -139,5 +139,6 @@ function openCity(evt, cityName) {
 </table>
 
    <h2> CODING FOR BEGINNERS </H2>
-   <IFRAME SRC="https://youtu.be/UB1O30fR-EE "></IFRAME>
+    <Iframe SRC="https://youtu.be/UB1O30fR-EE " WIDTH="300">
+       
 </body>
